@@ -1,0 +1,57 @@
+
+22-06-2023
+1.
+menambahkan kelola admin usecse
+menghapus semua pelanggan usecase
+cek lagi bagian 3.3 kendal desain
+
+2.
+menambahkan kelola admin pada menu login (iterasi 1)
+mengubah kelola pelanggan menjadi pesanan (iterasi 1) --pesanan lupa bikin hehehe
+menambahkan kelola admin pada 5. rencana kuaalitas
+-----------------------------------------------------------------------------------------------------------------------------
+
+23-06-2023
+1.
+menambahkan tulisan "pembuatan akun" pada kelas use case paling atas
+3.3 kendala desain terlah diperbaiki
+menambahkan rmp pada 1.3
+
+2.
+menghapus tulisan "pada menu login" (iterasi 1) --di bagian signup/login/ubah dll
+menambahkan cetak faktur pada 5. rencana kualitas
+
+3.
+menambahkan rmp pada 1.5
+menghapus pelanggan pada 2.1 bag.3
+menambahkan kelola admin pada 2.1 bag.4
+menambahkan cetak faktur pesanan pada 2.1 bag.5
+mengubah konektor pada modul 3 = W -> R/W
+menambahkan konektor pada cetak faktur pesanan = R
+mengubah diagram pada 2.1
+mengubah diagram pada 2.2
+menambahkan cetak faktur pesanan pada 2.2
+menambahkan kelola admin pada 2.2
+
+4.
+mengubah kelas secara drastis pada 1. ulasan
+mengubah stock -> stok pada 1.ulasan bagian aksi
+menambahkan controller pada 1.ulasan bagian aksi -- ayammasukcontroller, ayamkeluarcontroller, dll
+menambahkan controller pada 2.1 struktur pewaris -- ayammasukcontroller, ayamkeluarcontroller, dll
+
+5.
+dicek lagi nama dokumen di dalam word
+menambahkan controller pada 4. tes yang dilakukan -- stokayamcontroller, stokpakancontroller, dll
+---------------------------------------------------------------------------------------------------------------------------
+
+24-06-2023
+1.
+mengubah semua tulisan stock menjadi stok
+
+
+2.
+mengubah semua tulisan stock menjadi stok
+
+4.
+mengubah semua tulisan stock menjadi stok
+menambah metode pada 4. Detail Desain Spesifikasi
